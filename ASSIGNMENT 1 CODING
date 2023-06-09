@@ -1,0 +1,15 @@
+#QUESTION 6
+bacon = 22
+
+print(bacon+1)
+
+#QUESTION 7 
+a = ('spam'+'spamspam')
+b = ('spam'*3)
+
+print(a)
+print(b)
+
+#QUESTION 10
+
+my_tuple = ['I have eaten'+ 99 + 'burritos']
